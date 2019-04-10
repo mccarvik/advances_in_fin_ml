@@ -1,0 +1,4 @@
+useful githubs:
+https://github.com/jjakimoto/finance_ml/blob/master/examples/miscellaneous/Ch%203.ipynb
+https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises/blob/master/notebooks/Tick%2C%20Volume%2C%20Dollar%20Volume%20Bars.ipynb
+https://github.com/rspadim/Adv_Fin_ML/blob/master/snippets/AdFML.py
